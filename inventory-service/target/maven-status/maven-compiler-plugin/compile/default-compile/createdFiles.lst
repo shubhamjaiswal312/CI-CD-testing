@@ -1,0 +1,7 @@
+com\piklumicro\inventoryservice\model\Inventory.class
+com\piklumicro\inventoryservice\controller\InventoryController.class
+com\piklumicro\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\piklumicro\inventoryservice\dto\InventoryResponse.class
+com\piklumicro\inventoryservice\repository\InventoryRepository.class
+com\piklumicro\inventoryservice\service\InventoryService.class
+com\piklumicro\inventoryservice\InventoryServiceApplication.class
